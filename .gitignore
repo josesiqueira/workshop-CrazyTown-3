@@ -1,0 +1,11 @@
+.env
+__pycache__/
+venv/
+keys.txt
+
+# Workshop scratch / local-only artifacts
+get-images-app/
+hands-on-mcp/
+hands-on-mcp/.mcp.json
+hands-on-mcp/client.py
+sumo-mcp/
